@@ -517,6 +517,10 @@ more information.
 
 ![Screenshot](screenshots/square.png)
 
+### Srcery
+
+![Srcery Screenshot](screenshots/srcery.png)
+
 ### Sundried
 
 ![Screenshot](screenshots/sundried.png)
@@ -767,3 +771,5 @@ The JetBrains Darcula theme was created by [vitstr](https://github.com/vitstr)
 The Bright Lights theme was created by [tw15egan](https://github.com/tw15egan)
 
 The Ubuntu theme was inspired by default Ubuntu's console colors. Created by [Maximus](http://superuser.com/questions/497240/ubuntu-purple-terminal-colors-in-conemu) and ported to iTerm2 by [stepin](https://github.com/stepin).
+
+The Srcery theme is created by [Daniel Berg](https://github.com/roosta).
