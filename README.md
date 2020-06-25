@@ -384,6 +384,14 @@ You can also find about [Blink's official repository](https://github.com/blinksh
 
 ![Screenshot](screenshots/ollie.png)
 
+### One Half Dark
+
+![Screenshot](screenshots/one_half_dark.png)
+
+### One Half Light
+
+![Screenshot](screenshots/one_half_light.png)
+
 ### Parasio Dark
 
 ![Screenshot](screenshots/paraiso_dark.png)
@@ -769,3 +777,5 @@ The Bright Lights theme was created by [tw15egan](https://github.com/tw15egan)
 The Ubuntu theme was inspired by default Ubuntu's console colors. Created by [Maximus](http://superuser.com/questions/497240/ubuntu-purple-terminal-colors-in-conemu) and ported to iTerm2 by [stepin](https://github.com/stepin).
 
 The Nord theme was created by [Arctic Ice Studio](https://github.com/arcticicestudio/nord).
+
+The One Half Theme was created by [sonph](https://github.com/sonph)
