@@ -561,6 +561,10 @@ more information.
 
 ![Screenshot](screenshots/tomorrow_night_eighties.png)
 
+### Tokyonight Storm
+
+![Screenshot](screenshots/tokyonight_storm.jpg)
+
 ### ToyChest
 
 ![Screenshot](screenshots/toy_chest.png)
@@ -769,3 +773,5 @@ The Bright Lights theme was created by [tw15egan](https://github.com/tw15egan)
 The Ubuntu theme was inspired by default Ubuntu's console colors. Created by [Maximus](http://superuser.com/questions/497240/ubuntu-purple-terminal-colors-in-conemu) and ported to iTerm2 by [stepin](https://github.com/stepin).
 
 The Nord theme was created by [Arctic Ice Studio](https://github.com/arcticicestudio/nord).
+
+The Tokyonight theme was created by [folke](https://github.com/folke/tokyonight.nvim)
