@@ -206,7 +206,7 @@ You can also find about [Blink's official repository](https://github.com/blinksh
 
 ![Screenshot](screenshots/github.png)
 
-##Glacier###
+### Glacier
 
 ![Screenshot](screenshots/glacier.png)
 
