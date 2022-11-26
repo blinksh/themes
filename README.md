@@ -565,6 +565,10 @@ more information.
 
 ![Screenshot](screenshots/tokyonight_storm.jpg)
 
+### Tokyonight Night
+
+![Screenshot](screenshots/tokyonight_night.jpg)
+
 ### ToyChest
 
 ![Screenshot](screenshots/toy_chest.png)
