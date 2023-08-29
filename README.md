@@ -322,6 +322,9 @@ You can also find about [Blink's official repository](https://github.com/blinksh
 
 ![Screenshot](screenshots/medallion.png)
 
+### Miasma
+![Screenshot](screenshots/miasma.png)
+
 ### Misterioso
 
 ![Screenshot](screenshots/misterioso.png)
@@ -779,3 +782,5 @@ The Ubuntu theme was inspired by default Ubuntu's console colors. Created by [Ma
 The Nord theme was created by [Arctic Ice Studio](https://github.com/arcticicestudio/nord).
 
 The Tokyonight theme was created by [folke](https://github.com/folke/tokyonight.nvim)
+
+The Miasma theme was created by [xero](https://github.com/xero/miasma.nvim)
