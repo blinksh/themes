@@ -314,6 +314,10 @@ You can also find about [Blink's official repository](https://github.com/blinksh
 
 ![Screenshot](screenshots/material_dark.png)
 
+### MaterialDarker
+
+![Screenshot](screenshots/material_darker.png)
+
 ### Mathias
 
 ![Screenshot](screenshots/mathias.png)
