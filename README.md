@@ -70,9 +70,17 @@ You can also find about [Blink's official repository](https://github.com/blinksh
 
 ![Screenshot](screenshots/birds_of_paradise.png)
 
+### blaquemagick
+
+![Screenshot](screenshots/blaquemagick.png)
+
 ### Blazer
 
 ![Screenshot](screenshots/blazer.png)
+
+### blizzard orb
+
+![Screenshot](screenshots/blizzard-orb.png)
 
 ### Borland
 
@@ -169,7 +177,6 @@ You can also find about [Blink's official repository](https://github.com/blinksh
 ### Espresso Libre
 
 ![Screenshot](screenshots/espresso_libre.png)
-
 
 ### Evangelion
 
@@ -496,6 +503,10 @@ more information.
 ### Solarized Light
 
 ![Screenshot](screenshots/solarized_light.png)
+
+### sourcerer
+
+![Screenshot](screenshots/sourcerer.png)
 
 ### SpaceGray
 
