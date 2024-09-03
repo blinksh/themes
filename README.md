@@ -70,9 +70,17 @@ You can also find about [Blink's official repository](https://github.com/blinksh
 
 ![Screenshot](screenshots/birds_of_paradise.png)
 
+### blaquemagick
+
+![Screenshot](screenshots/blaquemagick.png)
+
 ### Blazer
 
 ![Screenshot](screenshots/blazer.png)
+
+### blizzard orb
+
+![Screenshot](screenshots/blizzard-orb.png)
 
 ### Borland
 
@@ -169,6 +177,10 @@ You can also find about [Blink's official repository](https://github.com/blinksh
 ### Espresso Libre
 
 ![Screenshot](screenshots/espresso_libre.png)
+
+### Evangelion
+
+![Screenshot](screenshots/evangelion.png)
 
 ### Fideloper
 
@@ -492,6 +504,10 @@ more information.
 
 ![Screenshot](screenshots/solarized_light.png)
 
+### sourcerer
+
+![Screenshot](screenshots/sourcerer.png)
+
 ### SpaceGray
 
 ![Screenshot](screenshots/space_gray.png)
@@ -784,3 +800,5 @@ The Nord theme was created by [Arctic Ice Studio](https://github.com/arcticicest
 The Tokyonight theme was created by [folke](https://github.com/folke/tokyonight.nvim)
 
 The Miasma theme was created by [xero](https://github.com/xero/miasma.nvim)
+
+The Evangelion theme was created by [xero](https://github.com/xero/evangelion.nvim)
