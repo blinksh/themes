@@ -447,6 +447,14 @@ You can also find about [Blink's official repository](https://github.com/blinksh
 
 ![Screenshot](screenshots/royal.png)
 
+### Sage Dark
+
+![Screenshot](screenshots/sage_dark.png)
+
+### Sage Light
+
+![Screenshot](screenshots/sage_light.png)
+
 ### Seafoam Pastel
 
 ![Screenshot](screenshots/seafoam_pastel.png)
